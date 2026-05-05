@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed
 
-<!--
-**mohammed-devops-engineer/mohammed-devops-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Linux Administrator | DevOps Engineer (In Transition)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 10+ years of IT administration experience across India and Middle East (Saudi Arabia, Bahrain)
+* Currently working as a Linux Administrator (since 2019)
+* Transitioning into DevOps with hands-on projects and continuous learning
+* Strong in system administration, troubleshooting, and automation
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔹 Operating Systems
+
+* Linux (RHEL, CentOS, Ubuntu)
+
+### 🔹 DevOps Tools
+
+* Docker
+* Kubernetes
+* Jenkins / GitLab CI
+* Terraform (Hands-on)
+
+### 🔹 Scripting
+
+* Bash / Shell scripting
+
+### 🔹 Version Control
+
+* Git & GitHub
+
+---
+
+## 📂 DevOps Projects
+
+🔧 **CI/CD Pipeline (In Progress)**
+
+* Jenkins + Docker + Kubernetes
+
+☸️ **Kubernetes Deployment (Planned)**
+
+* YAML, Services, Ingress, Scaling
+
+🌐 **Terraform Infrastructure (Planned)**
+
+* AWS EC2, VPC, Security Groups
+
+🐧 **Linux Automation Scripts (Planned)**
+
+* Backup, Monitoring, Cron Jobs
+
+---
+
+## 📈 Current Focus
+
+* Building real-time DevOps projects
+* Improving Kubernetes & Terraform skills
+* Preparing for DevOps Engineer roles
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/mohammed-devops-engineer
