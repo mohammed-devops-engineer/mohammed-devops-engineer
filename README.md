@@ -1,69 +1,39 @@
-# 👋 Hi, I'm Mohammed
+# 👋 Hi, I'm Mohammed Zakariyya Shaik
 
-**Linux Administrator | DevOps Engineer (In Transition)**
-
----
+**Linux Administrator | Infrastructure & DevOps Support**
 
 ## 🚀 About Me
+- Foundational Computer Science Graduate (B.Sc.) with 5.7 years of verifiable international corporate operations and administration experience in the Gulf region (Saudi Arabia & Bahrain).
+- Dedicated the recent period to an intensive technical sabbatical, building advanced hands-on local laboratory environments.
+- Deeply focused on Linux System Administration, infrastructure metrics, and modern DevOps automation frameworks.
+- Known for high operational maturity, strong logging accuracy, and disciplined troubleshooting under pressure.
 
-* 10+ years of IT administration experience across India and Middle East (Saudi Arabia, Bahrain)
-* Currently working as a Linux Administrator (since 2019)
-* Transitioning into DevOps with hands-on projects and continuous learning
-* Strong in system administration, troubleshooting, and automation
-
----
-
-## 🛠️ Skills & Tools
-
-### 🔹 Operating Systems
-
-* Linux (RHEL, CentOS, Ubuntu)
-
-### 🔹 DevOps Tools
-
-* Docker
-* Kubernetes
-* Jenkins / GitLab CI
-* Terraform (Hands-on)
-
-### 🔹 Scripting
-
-* Bash / Shell scripting
-
-### 🔹 Version Control
-
-* Git & GitHub
+## 🛠 Skills & Tools
+- **Operating Systems:** Linux (RHEL/RHCE Foundations, Ubuntu, CentOS)
+- **CI/CD & Code Management:** Jenkins, Git, GitHub
+- **Observability Frameworks:** Prometheus, Grafana
+- **Databases & Scripting:** SQL Fundamentals, Bash Shell Scripting
 
 ---
 
-## 📂 DevOps Projects
+## 📂 Active DevOps & Linux Projects
 
-🔧 **CI/CD Pipeline (In Progress)**
+### 🐧 Project 1: Linux Infrastructure Automation Toolkit
+- **Objective:** Automated routine system administration tasks to eliminate manual intervention and human error.
+- **Implementation:** Wrote operational Bash scripts for automated log compression, memory utilization health metrics, and automated service restarts for crashed applications.
+- **Code Link:** Can be found directly inside my `devops-project-1` repository.
 
-* Jenkins + Docker + Kubernetes
+### 🔧 Project 2: Automated CI/CD Deployment Pipeline
+- **Objective:** Designed a continuous integration workflow to automate application checks and server preparation.
+- **Implementation:** Configured a local Jenkins automation server integrated with GitHub Webhooks to trigger automated environment builds upon code updates.
 
-☸️ **Kubernetes Deployment (Planned)**
-
-* YAML, Services, Ingress, Scaling
-
-🌐 **Terraform Infrastructure (Planned)**
-
-* AWS EC2, VPC, Security Groups
-
-🐧 **Linux Automation Scripts (Planned)**
-
-* Backup, Monitoring, Cron Jobs
+### 📊 Project 3: Production Observability Stack
+- **Objective:** Provided deep visibility into real-time server resource deployment.
+- **Implementation:** Set up Prometheus metrics scraping for Linux nodes and mapped data endpoints into customized visual Grafana dashboards tracking CPU loads and memory availability.
 
 ---
 
-## 📈 Current Focus
-
-* Building real-time DevOps projects
-* Improving Kubernetes & Terraform skills
-* Preparing for DevOps Engineer roles
-
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/mohammed-devops-engineer
+## 📫 Contact Details
+- **Location:** Ready to relocate immediately to **Bengaluru / Hyderabad**
+- **Mobile:** +91 9398370434
+- **Email:** s.mohammed0508@gmail.com
